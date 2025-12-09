@@ -1,7 +1,7 @@
 
 ---
 
-# MultiEdit_Decomposer (复合指令分解器)
+# MultiEdit_Decomposer 复合指令分解器
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![Jieba](https://img.shields.io/badge/Dependency-Jieba-green) ![License](https://img.shields.io/badge/license-MIT-orange)
 
